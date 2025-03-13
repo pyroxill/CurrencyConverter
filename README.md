@@ -31,7 +31,7 @@ This application uses the CurrencyAPI to fetch real-time exchange rates
 Currency Converter Screenshot
 Example: Converting 100 USD to EUR.
 
-![image](https://github.com/user-attachments/assets/23042751-2ff5-4fc1-89be-d03d278ee9ac)
+![image](https://github.com/user-attachments/assets/76ceb26d-cc7b-490b-9370-59830bf80c6f)
 
 ## Author
 Jayden Robertson
